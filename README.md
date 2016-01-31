@@ -1,5 +1,5 @@
 # jekyll-chronometer
-Chronometer für eine Jekyll-basierte Website: [Website](http://www.chronometer-online.de/online-chronometer)
+Chronometer für eine Jekyll-basierte Website: [Chronometer-Online](http://www.chronometer-online.de/online-chronometer)
 Der Code basiert auf  Giulia Alfonsis [GIST](https://gist.github.com/electricg/4372563). Der Code wurde auf einen Start-Stopp-Button modifiziert. Im Jekyll-Markdown muss man folgenden Code einfügen. Zunächst braucht man ein Formular mit Start/Stopp und Reset Button. Der Rest wird durch Javascript erledigt. 
 ```javascript
 <body onload="show();">
